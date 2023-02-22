@@ -1,0 +1,15 @@
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/bin/Debug/net6.0/Ex4
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/bin/Debug/net6.0/Ex4.deps.json
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/bin/Debug/net6.0/Ex4.runtimeconfig.json
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/bin/Debug/net6.0/Ex4.dll
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/bin/Debug/net6.0/Ex4.pdb
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/obj/Debug/net6.0/Ex4.csproj.AssemblyReference.cache
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/obj/Debug/net6.0/Ex4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/obj/Debug/net6.0/Ex4.AssemblyInfoInputs.cache
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/obj/Debug/net6.0/Ex4.AssemblyInfo.cs
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/obj/Debug/net6.0/Ex4.csproj.CoreCompileInputs.cache
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/obj/Debug/net6.0/Ex4.dll
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/obj/Debug/net6.0/refint/Ex4.dll
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/obj/Debug/net6.0/Ex4.pdb
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/obj/Debug/net6.0/Ex4.genruntimeconfig.cache
+/Users/tatyanakulemina/Desktop/Sem_1/Ex4/obj/Debug/net6.0/ref/Ex4.dll
